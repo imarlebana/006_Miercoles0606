@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23e53173-087f-4777-a559-264038916a24" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/es/cice/Cuenta.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/es/cice/Contador.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/es/cice/Clases.java" afterPath="$PROJECT_DIR$/src/es/cice/Clases.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,21 +15,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Clases.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Clases.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/es/cice/Clases.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="50" lean-forward="false" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+            <state relative-caret-position="0">
+              <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Coche.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Contador.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/es/cice/Contador.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Coche.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/es/cice/Coche.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="585">
+              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -71,6 +80,8 @@
         <option value="$PROJECT_DIR$/src/es/cice/Ejercicio1/Cliente.java" />
         <option value="$PROJECT_DIR$/src/es/cice/Coche.java" />
         <option value="$PROJECT_DIR$/src/es/cice/Cuenta.java" />
+        <option value="$PROJECT_DIR$/src/es/cice/Ejercicio1/Contador.java" />
+        <option value="$PROJECT_DIR$/src/es/cice/Contador.java" />
         <option value="$PROJECT_DIR$/src/es/cice/Clases.java" />
       </list>
     </option>
@@ -122,6 +133,13 @@
               <item name="006_Miercoles0606" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="006_Miercoles0606" type="b2602c69:ProjectViewProjectNode" />
+              <item name="006_Miercoles0606" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cice" type="462c0819:PsiDirectoryNode" />
+              <item name="Ejercicio1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -329,10 +347,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/es/cice/Clases.java">
+    <entry file="file://$PROJECT_DIR$/src/es/cice/Coche.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="50" lean-forward="false" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+        <state relative-caret-position="585">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -345,10 +363,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/es/cice/Coche.java">
+    <entry file="file://$PROJECT_DIR$/src/es/cice/Contador.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/cice/Clases.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
           <folding />
         </state>
       </provider>

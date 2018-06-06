@@ -16,13 +16,16 @@ public class Clases {
         System.out.println("Cuenta2 Dinero: " + c2.getDinero());
 
         Cuenta c3 = new Cuenta(c2);
-        System.out.println("Cuenta1 Dinero: " + c3.getDinero());
+        System.out.println("Cuenta3 Dinero: " + c3.getDinero());
+        c3.reintrego(600);
+        System.out.println("Cuenta3 Dinero: " + c3.getDinero());
 
 
 
-
-
-
+        Contador cuenta = new Contador();
+        cuenta.setCuenta(1);
+        Contador cuenta2 = new Contador(cuenta);
+        Contador cuenta3 = new Contador(5);
 
 
 
